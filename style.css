@@ -1,0 +1,82 @@
+.style {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.css {
+    background-color: greenyellow;
+    width: 100px;
+    border-radius: 5%;
+}
+
+.class {
+    text-align: center;
+    color: white;
+}
+
+.box {
+    background-color: slategray;
+    padding: 20px;
+
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+
+
+
+.mytable {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", serif;
+}
+
+.mytable th {
+    border: 1px solid #ddd;
+    padding: 14px 12px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.mytable td {
+    border: 1px solid #ddd;
+    padding: 14px 12px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.mytable th {
+    font-weight: bold;
+    background: #f8f8f8;
+}
+
+iframe{
+    width: 100%;
+}
+
+.container{
+    color: white;
+    background-color: black;
+}
+
+
+
+
+.rasm{
+    border-radius: 15px;
+}
+
